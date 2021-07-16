@@ -29,7 +29,7 @@ You need run ./Seeg_VMAML_Double_Vae.py
 
 **MAML** including MAML model.
 
-**VAML** A new model that combines vae and maml.
+**VAML** A new model that combines vae and maml. --> the model was later renamed as PiSC 
 
 **VAE** variational auto encode, coding seeg matrix.
 
